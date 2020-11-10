@@ -1,2 +1,5 @@
 # hello-world
-make a new move
+
+Hi internet!
+
+I'm Lakrula. I'm new to this world of coding and programming
